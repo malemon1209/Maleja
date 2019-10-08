@@ -1,0 +1,70 @@
+#Principal{
+	width: 900px;
+	height: 1000px;
+	border: 1px solid #000406;
+	margin: auto;
+}
+
+header{
+	width: 900px;
+	height: 100px;
+}
+
+#Logo{
+	width: 296px;
+	height: 100px;
+	border: 1px solid #000406 ;
+	float: left;
+}
+
+.menu{
+	width: 600px;
+	height: 60px;
+	border: 1px solid #000406;
+	float: right;
+	margin-top: 25px;
+	background: #04FFC6 ;
+}
+
+.menu ul{
+
+}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+
+}
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #000;
+	font: bold 90% cursive;
+}
+
+#slide{
+	margin-top: 20px;
+	float: left;
+}
+
+#categorias{
+	width: 900px;
+	height: 500px;
+	border: 1px solid #000406;
+	margin-top: 400px;
+}
+
+.uno{
+	width: 280px;
+	height: 400px;
+	border: 1px solid #000406;
+	float: left;
+	padding: 5px;
+	text-align: center;
+}
+
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+}
